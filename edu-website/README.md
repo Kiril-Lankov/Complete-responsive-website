@@ -12,3 +12,4 @@ Steps:
 # Create component Footer   
 # React scroll installed
 # Make components responsive friendly
+# Site is not releated to any database. It is just Frondend!!!
