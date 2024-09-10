@@ -10,3 +10,4 @@ Steps:
 # Create component Testimonials and add CSS to it
 # Create component Contact and add CSS to it plus form via access key using w3forms.com
 # Create component Footer   
+# React scroll installed
