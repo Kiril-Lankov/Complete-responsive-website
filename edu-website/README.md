@@ -8,3 +8,5 @@ Steps:
 # Create component Programs and add CSS to it
 # Create component Campus and add CSS to it
 # Create component Testimonials and add CSS to it
+# Create component Contact and add CSS to it plus form via access key using w3forms.com
+    
